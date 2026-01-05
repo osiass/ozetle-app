@@ -24,13 +24,13 @@ konu bazlı analiz ve isteğe bağlı sesli etkileşim sunar.
 ## Application Screenshots
 
 ### Saved Notes
-<img src="screenshots/saved_notes.jpg" width="300"/>
+<img src="screenshots/2.png" width="300"/>
 
 ### Tools & Modules
-<img src="screenshots/tools.jpg" width="300"/>
+<img src="screenshots/3.png" width="300"/>
 
 ### Application Overview
-<img src="screenshots/overview.jpg" width="300"/>
+<img src="screenshots/1.png" width="300"/>
 
 ---
 
